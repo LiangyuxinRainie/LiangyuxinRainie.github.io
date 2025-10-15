@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I’m Yuxin Liang(梁雨欣), a second year master student from [EIC](https://ei.hust.edu.cn/), [Huazhong Unisersity of Science and Technology](https://www.hust.edu.cn/), advised by [Prof. Peng Yang](https://scholar.google.com/citations?hl=en&user=8v7c4rYAAAAJ). My research interest includes and mobile edge computing :iphone: :iphone:, Mobile AIGC Networks :star: :star: and Diffusion Model 🖼️: 🖼️:.
+I’m Yuxin Liang(梁雨欣), a second year master student from [EIC](https://ei.hust.edu.cn/), [Huazhong Unisersity of Science and Technology](https://www.hust.edu.cn/), advised by [Prof. Peng Yang](https://scholar.google.com/citations?hl=en&user=8v7c4rYAAAAJ). My research interest includes and mobile edge computing 📱, Mobile AIGC Networks 🌟 and Diffusion Model 🖼️.
 
 My email is: yuxinliang@hust.edu.cn; yuxinliang155@gmail.com
 
@@ -30,14 +30,14 @@ Reviewer for
 
 Conference
 ------
-> AAAI Conference on Artificial  Intelligence
->  IEEE Global Communications Conference
->  IEEE International Conference on High Performance  Computing and Communications
->  International Conference on Parallel and Distributed Systems
+* AAAI Conference on Artificial  Intelligence
+* IEEE Global Communications Conference
+* IEEE International Conference on High Performance Computing and Communications
+* International Conference on Parallel and Distributed Systems
    
 Journal
 ------
-> IEEE Internet of Things Journal
+* IEEE Internet of Things Journal
 
 
 Activity
@@ -45,6 +45,13 @@ Activity
 
 Teaching Assistant
 ------
-> Wireless Communication (for international students)
-   
+* Wireless Communication (for international students)
 
+Miscellaneous
+======
+
+Sports
+------
+* Swimming 🏊‍♀️
+* Skiing ⛷️
+* Badminton 🏸
