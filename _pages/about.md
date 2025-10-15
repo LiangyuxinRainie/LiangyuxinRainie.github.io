@@ -14,6 +14,7 @@ My email is: yuxinliang@hust.edu.cn; yuxinliang155@gmail.com
 
 Publications
 ======
+
 Conference Papers
 ------
 1. **Yuxin Liang**, Peng Yang, Yuanyuan He, Feng Lyu, [Resource-Efficient Generative AI Model Deployment in Mobile Edge Networks](https://ieeexplore.ieee.org/abstract/document/10901571), *IEEE GLOBECOM*, pp. 2647-2652, 2024.
