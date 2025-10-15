@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I’m Yuxin Liang(梁雨欣), a second year master student from [EIC](https://ei.hust.edu.cn/), [Huazhong Unisersity of Science and Technology](https://www.hust.edu.cn/), advised by [Prof. Peng Yang](https://scholar.google.com/citations?hl=en&user=8v7c4rYAAAAJ). My research interest includes and mobile edge computing 📱, Mobile AIGC Networks 🌟 and Diffusion Model 🖼️.
+I’m Yuxin Liang(梁雨欣), a second year master student from [EIC](https://ei.hust.edu.cn/), [Huazhong Unisersity of Science and Technology](https://www.hust.edu.cn/), China, advised by [Prof. Peng Yang](https://scholar.google.com/citations?hl=en&user=8v7c4rYAAAAJ). I received my B.Eng. degree at Wuhan University of Technology, China. My current research interest includes mobile edge computing 📱, Mobile AIGC Networks 🌟 and Diffusion Model 🖼️.
 
-My email is: yuxinliang@hust.edu.cn; yuxinliang155@gmail.com
+My email: yuxinliang@hust.edu.cn; yuxinliang155@gmail.com
 
 
 
@@ -48,6 +48,13 @@ Teaching Assistant
 ------
 * Wireless Communication (for international students)
 
+Achievements
+------
+* Pacemaker to Merit Student of WHUT
+* First Class Scholarship for Undergraduate Students of WHUT
+* First Class Scholarship for Graduate Students of HUST
+* Outstanding Graduate Student (Innovation in Science and Technology) of HUST
+
 Miscellaneous
 ======
 
@@ -56,3 +63,4 @@ Sports
 * Swimming 🏊‍♀️
 * Skiing ⛷️
 * Badminton 🏸
+* Flying disc 🥏
