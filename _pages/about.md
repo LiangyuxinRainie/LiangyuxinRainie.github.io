@@ -27,14 +27,24 @@ Journal Papers
    
 Reviewer for
 ======
+
 Conference
 ------
-1. AAAI Conference on Artificial  Intelligence
-2. IEEE Global Communications Conference
-3. IEEE International Conference on High Performance  Computing and Communications
-4. International Conference on Parallel and Distributed Systems
+> AAAI Conference on Artificial  Intelligence
+>  IEEE Global Communications Conference
+>  IEEE International Conference on High Performance  Computing and Communications
+>  International Conference on Parallel and Distributed Systems
    
 Journal
 ------
-1. IEEE Internet of Things Journal
+> IEEE Internet of Things Journal
+
+
+Activity
+======
+
+Teaching Assistant
+------
+> Wireless Communication (for international students)
+   
 
