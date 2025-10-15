@@ -31,10 +31,10 @@ Reviewer for
 
 Conference
 ------
-* AAAI Conference on Artificial  Intelligence
-* IEEE Global Communications Conference
-* IEEE International Conference on High Performance Computing and Communications
-* International Conference on Parallel and Distributed Systems
+* AAAI Conference on Artificial  Intelligence (AAAI)
+* IEEE Global Communications Conference (GLOBECOM)
+* IEEE International Conference on High Performance Computing and Communications (HPCC)
+* International Conference on Parallel and Distributed Systems (ICPADS)
    
 Journal
 ------
